@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">USBMount</string>
+    <string name="edittextpreference_mountpoint_title">Enter MountPoint</string>
+    <string name="alertdialog_noroot_title">I need root access!</string>
+    <string name="alertdialog_noroot_content">In order to get things work, you have to grant root access to this app.</string>
+    <string name="edittextpreference_mountpoint_summary">Information: Every USB-Storage gets its own path. The number will be appended to your specified Path.\nExample:\nSpecified: /storage/usbdrive\nMountPoint: /storage/usbdrive1</string>
+    <string name="notification_eject_button">Eject</string>
+    <string name="notification_eject_title">USB-Storage connected</string>
+    <string name="notification_eject_content3">ID:</string>
+    <string name="dialog_ejecting_title">Ejecting...</string>
+    <string name="notification_mounting_title">Mounting device...</string>
+    <string name="notification_mounting_content">USB-Storage attached...</string>
+    <string name="notification_eject_content4">MountPoint:</string>
+    <string name="intent_selectfolder_title">Select file explorer</string>
+    <string name="notification_eject_content2">More information:</string>
+    <string name="notification_eject_content1">Tap here to open the folder</string>
+    <string name="edittextpreference_devpath_title">Enter the device searching path</string>
+    <string name="edittextpreference_devpath_summary">This is usually the /dev path on Linux</string>
+    <string name="settings">Settings</string>
+    <string name="preferencescreen_title_about">About</string>
+    <string name="preference_about_title">About...</string>
+    <string name="textView_about">Idea: Kai_Jan_57\nProgramming: Kai_Jan_57\n\nIf you find any bugs or you have a suggestion, please send me a mail or write into the comments below.</string>
+</resources>

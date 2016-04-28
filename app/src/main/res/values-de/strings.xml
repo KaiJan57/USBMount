@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">USBMount</string>
+    <string name="edittextpreference_mountpoint_title">MountPunkt eingeben</string>
+    <string name="alertdialog_noroot_title">Ich brauche Root-Zugriff!</string>
+    <string name="alertdialog_noroot_content">Um diese App zum Laufen zu bringen, musst du dieser App Root-Zugriff gewähren.</string>
+    <string name="edittextpreference_mountpoint_summary">Information: Jeder USB-Speicher bekommt seinen eigenen Pfad. Die Zahl wird an den angegebenen Pfad angehängt.\nBeispiel:\nAngegeben: /storage/usbdrive\nMountPunkt: /storage/usbdrive1</string>
+    <string name="edittextpreference_devpath_title">Den Gerät-such-Pfad eingeben</string>
+    <string name="notification_eject_button">Auswerfen</string>
+    <string name="notification_eject_title">USB-Speicher verbunden</string>
+    <string name="notification_eject_content3">ID:</string>
+    <string name="dialog_ejecting_title">Wirft aus...</string>
+    <string name="notification_mounting_title">Gerät mounten...</string>
+    <string name="notification_mounting_content">USB-Speicher verbunden...</string>
+    <string name="notification_eject_content4">MountPunkt:</string>
+    <string name="intent_selectfolder_title">Wähle einen Datei-Explorer aus</string>
+    <string name="notification_eject_content2">Mehr Informationen:</string>
+    <string name="notification_eject_content1">Tippe hier, um den Ordner zu öffnen</string>
+    <string name="edittextpreference_devpath_summary">Dies ist normalerweise der /dev Pfad bei Linux</string>
+    <string name="settings">Einstellungen</string>
+    <string name="preferencescreen_title_about">Über</string>
+    <string name="preference_about_title">Über...</string>
+    <string name="textView_about">Idee: Kai_Jan_57\nProgrammierung: Kai_Jan_57\n\nWenn du irgendwelche Bugs findest oder einen Vorschlag hast, schreibe mir bitte eine Mail oder in die Kommentare unten.</string>
+</resources>

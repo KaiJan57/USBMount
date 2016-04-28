@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/settings" />
+    <EditTextPreference
+        android:key="mount_point"
+        android:summary="@string/edittextpreference_mountpoint_summary"
+        android:title="@string/edittextpreference_mountpoint_title" />
+    <EditTextPreference
+        android:key="dev_path"
+        android:summary="@string/edittextpreference_devpath_summary"
+        android:title="@string/edittextpreference_devpath_title" />
+    <PreferenceCategory android:title="@string/preferencescreen_title_about" />
+    <Preference
+        android:key="about"
+        android:title="@string/preference_about_title" />
+</PreferenceScreen>
